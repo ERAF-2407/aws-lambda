@@ -42,3 +42,19 @@ secret.tfvars
 .terraform.lock.hcl
 terraform.tfstate
 terraform.tfstate.backup
+
+### Gradle ###
+.gradle/
+
+### Secrets ###
+secrets.properties
+
+### Terraform ###
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+terraform/secret.tfvars
+
+
+
