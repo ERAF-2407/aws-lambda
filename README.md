@@ -39,7 +39,7 @@ El proyecto sigue una arquitectura basada en AWS Lambda con los siguientes compo
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/DAVID-DAM/aws-lambda.git
+   git clone https://github.com/ERAF-2407/aws-lambda.git
    cd aws-lambda
    ```
 
@@ -110,8 +110,3 @@ Las principales dependencias utilizadas en el proyecto son:
 - **Lombok**: Reducción de código repetitivo.
 - **Spring Data JPA**: Para la interacción con PostgreSQL.
 - **AWS SDK**: Para interactuar con S3 y otros servicios de AWS.
-
-## Contribuciones
-
-¡Contribuciones son bienvenidas! Si tienes ideas, mejoras o encuentras algún problema, abre un issue o envía un pull
-request.
