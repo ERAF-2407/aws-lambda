@@ -48,13 +48,8 @@ terraform.tfstate.backup
 
 ### Secrets ###
 secrets.properties
-
-### Terraform ###
-.terraform/
-.terraform.lock.hcl
-terraform.tfstate
-terraform.tfstate.backup
 terraform/secret.tfvars
+
 
 
 
